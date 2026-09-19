@@ -1,4 +1,6 @@
 package com.example.simpleordersystem
 
-class MyClass {
+fun main(){
+    val system = Restaurant()
+    system.start()
 }
