@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "Assignment Week 1"
 include(":app")
 include(":SimpleOrderSystem")
+include(":WizardAdventure")
