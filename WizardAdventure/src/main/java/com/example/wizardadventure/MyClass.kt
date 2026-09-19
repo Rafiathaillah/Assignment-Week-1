@@ -1,4 +1,6 @@
 package com.example.wizardadventure
 
-class MyClass {
+fun main(){
+    val controller = Controller()
+    controller.start()
 }
